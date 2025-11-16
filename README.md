@@ -5,29 +5,47 @@ This Case study presents a data-driven analysis of car sales performance across 
 
 ## 🎯Objectives
 Daily sales price per unit
+
 Avarage unit sales that occured
+
 Daily gross profit and profit unit
+
 Price Elasticity of Demand 
+
 Perfomance of products during promotional price and revenue
 ## 📊Key Analyses Perfomance
 Sales trend analysis- Daily and yearly sales perfomance
+
 Sales Representative Performance-REvenue contribution
+
 Profitability- Gross profit
+
 ## 📈Deliveries
 Cleaned&prepared dataset
+
 SQL queries for extraction and transformation
+
 Visualisations( bar charts, line charts, and pie charts)
+
 Executive summary report
 ## 🧩Summary of insights
 Sales performance it's a peak on Tuesday to Thursday
+
 Sales grew steady on 2014 to 2015 then dropped signficantly
+
 Promotional price outperformed Revenue(selling price)
+
 Early morning time interval made the most Sales and revenue 
 ## 🛠️Tools and Technologies
 Gantt chart- Planning time executions for the project
+
 Miro- Planning, workflow mapping
+
 Snowflake- SQL queries for data extraction and transformation
+
 Excel- Summary calcutions
-PDF-Report documentatio
+
+PDF-Report documentation
+
 Powerpoint Presentation-Presenating all the gather information with insights
 
